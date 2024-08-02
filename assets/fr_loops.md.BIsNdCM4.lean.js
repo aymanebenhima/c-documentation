@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as i,a2 as a}from"./chunks/framework.BThh_NHy.js";const E=JSON.parse('{"title":"Les Boucles en C","description":"","frontmatter":{},"headers":[],"relativePath":"fr/loops.md","filePath":"fr/loops.md"}'),n={name:"fr/loops.md"},t=a("",28),l=[t];function r(p,o,h,c,d,k){return i(),e("div",null,l)}const g=s(n,[["render",r]]);export{E as __pageData,g as default};
