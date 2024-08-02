@@ -101,4 +101,3 @@ Create a simple C program that includes a `main` function, a few statements, and
 ---
 
 Mastering the basic syntax is the first step towards writing functional C programs. Next, let’s dive into [Output](./output.md) to learn how to print elements in your programs.
-```
