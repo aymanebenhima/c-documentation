@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t}from"./chunks/framework.BThh_NHy.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/loops.md","filePath":"en/loops.md"}'),a={name:"en/loops.md"};function s(n,r,c,p,l,_){return t(),o("div")}const m=e(a,[["render",s]]);export{i as __pageData,m as default};
