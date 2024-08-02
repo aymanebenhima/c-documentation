@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.Cw_AIpAc.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/comments.md","filePath":"en/comments.md"}'),o={name:"en/comments.md"};function a(s,c,r,m,p,_){return n(),t("div")}const f=e(o,[["render",a]]);export{i as __pageData,f as default};

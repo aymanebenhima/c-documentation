@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.Cw_AIpAc.js";const c=JSON.parse('{"title":"Booleans","description":"","frontmatter":{},"headers":[],"relativePath":"en/booleans.md","filePath":"en/booleans.md"}'),e={name:"en/booleans.md"},t=n("",6),l=[t];function h(p,k,o,r,d,E){return a(),i("div",null,l)}const y=s(e,[["render",h]]);export{c as __pageData,y as default};
