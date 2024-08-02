@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.Cw_AIpAc.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/output.md","filePath":"en/output.md"}'),a={name:"en/output.md"};function n(r,s,c,p,u,_){return o(),e("div")}const m=t(a,[["render",n]]);export{i as __pageData,m as default};
