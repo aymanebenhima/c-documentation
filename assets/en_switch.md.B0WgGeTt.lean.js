@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BThh_NHy.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/switch.md","filePath":"en/switch.md"}'),s={name:"en/switch.md"};function c(n,r,o,i,_,p){return a(),t("div")}const f=e(s,[["render",c]]);export{m as __pageData,f as default};
