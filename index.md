@@ -1,25 +1,35 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "C Programming Essentials"
-  text: "Dive into the fundamentals of C programming with our comprehensive guide, covering everything from basic syntax to advanced loop constructs. Designed with clear examples and detailed explanations, this documentation will help you master the core concepts of C and build a strong foundation for further programming endeavors."
-  tagline: My great project tagline
+  text: "Master the fundamentals of C programming with our comprehensive and interactive guide. From basic syntax to advanced concepts, we've got you covered. Start your journey to becoming a proficient C programmer today!"
+  tagline: "Unlock the Power of C Programming"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Start Learning
+      link: /en/getStarted
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Explore Topics
+      link: /en/intro
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: ⚙️
+    title: Beginner-Friendly
+    details: "No prior programming experience? No problem! Our guide is designed to be accessible for beginners."
+  - icon: 📚
+    title: Comprehensive Content
+    details: "Dive deep into C programming with detailed explanations, examples, and exercises covering all core concepts."
+  - icon: 🌐
+    title: Bilingual Support
+    details: "Learn in your preferred language. Our documentation is available in both English and French."
+  - icon: 💡
+    title: Interactive Examples
+    details: "Hands-on coding examples to practice and enhance your programming skills."
+  - icon: 🛠️
+    title: Practical Applications
+    details: "Apply your knowledge with real-world programming scenarios and projects."
+  - icon: 🎓
+    title: Exam Success
+    details: "Prepare for your technical exams with confidence using our focused and structured content."
 ---
-

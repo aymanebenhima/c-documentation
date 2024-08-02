@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "C Programming Essentials",
   description: "Learn the basics of C programming.",
+  base: '/c-documentation/',
   themeConfig: {
     nav: [
       { text: 'English', link: '/en/intro' },

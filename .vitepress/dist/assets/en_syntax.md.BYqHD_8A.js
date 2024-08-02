@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BThh_NHy.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/syntax.md","filePath":"en/syntax.md"}'),n={name:"en/syntax.md"};function s(r,o,c,p,_,d){return a(),t("div")}const f=e(n,[["render",s]]);export{m as __pageData,f as default};
